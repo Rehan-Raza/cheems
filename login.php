@@ -111,7 +111,7 @@ body{
     		<label><b>Password</b></label>
     		<input type="password" name="pass" class="form-control" required><br>
 
-    		<button name="Login" class="btn btn-success">Login</button><br>
+    		<button name="Login" class="btn btn-success">click here</button><br>
     		
   <div>
   	<p class="text-danger"><?php echo $_GET['user']; ?></p><br> 
